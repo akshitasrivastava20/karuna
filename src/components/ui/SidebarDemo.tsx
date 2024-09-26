@@ -102,14 +102,14 @@ export const Logo = () => {
       <Image
       src="/images/logobase.svg"
       alt="Logo"
-      width={200}
-      height={200}
-      className="h-10 w-12 flex-shrink-0"
+      width={100}
+      height={100}
+      className="h-7 pl-0 m-0 w-16 flex-shrink-0"
       />
       <motion.span
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
-      className="font-medium text-black dark:text-white whitespace-pre ml-2"
+      className="font-medium  text-black dark:text-white whitespace-pre ml-0"
       >
       Karuna
       </motion.span>
