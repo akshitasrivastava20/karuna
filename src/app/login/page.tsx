@@ -1,8 +1,17 @@
+import { AuroraBackgroundDemo } from "@/components/AuroraBackgroundDemo";
+import Login from "./login";
 
 
-  
-export default function page() {
-    return (
-      <h1>login</h1>
-    );
-  }
+export default function Home() {
+  return (
+    <>
+   
+
+    <Login/>
+
+   
+    
+    </>
+    
+  );
+}
