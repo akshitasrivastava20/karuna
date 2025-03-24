@@ -10,9 +10,12 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^6.12.8",
+    "mongodb": "^6.15.0",
+    "mongoose": "^8.12.2",
     "next": "15.2.3",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "svix": "^1.62.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
