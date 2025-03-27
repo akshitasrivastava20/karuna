@@ -1,6 +1,9 @@
-import React from 'react';
+
 export default function hospitaldata() {
-    <div>
-    <h1>hospitals only</h1>
-    </div>
+    return(
+        <div>
+            <h1> Hospital Data </h1>
+            <p> This is the hospital data page </p>
+        </div>
+    )
 }
